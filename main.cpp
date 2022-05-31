@@ -40,6 +40,8 @@ int main() {
 			break;
 		}
 	} while (flag);
+	
+	return 0;
 }
 
 
